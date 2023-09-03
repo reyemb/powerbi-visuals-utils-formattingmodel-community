@@ -3,7 +3,7 @@
 ## Why This Fork Exists
 This fork aims to extend and maintain Microsoft's PowerBI Custom Visuals Formatting Model Utils library, which hasn't been updated for some time. It includes additional functions and improvements that are crucial for certain use-cases but haven't been accepted into the main repo.
 
-Special thanks to `liprec` for opening valuable pull requests that lead to this repository
+Special thanks to `liprec` for his pull requests that lead to this repository
 
 ## Installation
 
