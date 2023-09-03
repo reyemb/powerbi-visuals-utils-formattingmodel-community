@@ -5,6 +5,16 @@ This fork aims to extend and maintain Microsoft's PowerBI Custom Visuals Formatt
 
 Special thanks to `liprec` for opening valuable pull requests that lead to this repository
 
+## Installation
+
+```
+npm install powerbi-visuals-utils-formattingmodel-community
+```
+
+## Demo
+
+You can find a demo [here](https://github.com/reyemb/powerbi-DemoFormattingGroup)
+
 ## Contributions and CLA
 Since this is a fork of a Microsoft project, contributions to this fork still require agreeing to a Contributor License Agreement (CLA). Visit [Microsoft's CLA site](https://cla.microsoft.com) for details.
 
